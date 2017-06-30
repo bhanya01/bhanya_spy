@@ -1,5 +1,6 @@
 from spy_details import spy, Spy, ChatMessage, friends,spy_name
 from steganography.steganography import Steganography
+from colour import color
 from datetime import datetime
 
 STATUS_MESSAGES = ['name cool boy', 'avilable', 'im busy text me plz', 'dont text,Sir']
